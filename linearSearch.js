@@ -1,0 +1,1 @@
+function linearSearch(arr, num)

@@ -1,0 +1,3 @@
+function binarySearch(arr, num) {
+  
+}
